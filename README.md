@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sage-22
 - 👀 I’m interested in web design and development 
 - 🌱 I’m currently learning all programming languages 
-- 💞️ I’m looking to collaborate on anybody 
+- 💞️ I’m looking to collaborate with anybody 
 - 📫 How to reach me premugah@gmail.com 
 
 <!---
